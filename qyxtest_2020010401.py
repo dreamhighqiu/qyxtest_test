@@ -8,3 +8,5 @@
 
 a=3
 print(3)
+b='qyxtest'
+print(a,b)
